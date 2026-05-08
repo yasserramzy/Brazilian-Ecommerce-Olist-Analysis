@@ -42,6 +42,7 @@ The project follows a full data analyst workflow:
 ---
 
 ## 🗂️ Project Structure
+
 ├── data/                         # Original raw CSV files (9 tables)
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb    # Data cleaning & merging pipeline
