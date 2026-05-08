@@ -1,0 +1,13 @@
+{
+  "total_orders": 96469,
+  "total_revenue": 15418251.37,
+  "avg_order_value": 159.83,
+  "avg_delivery_days": 12.1,
+  "late_order_pct": 6.8,
+  "avg_review_score": 4.16,
+  "repeat_customer_pct": 3.0,
+  "top10_seller_rev_pct": 12.9,
+  "unique_customers": 93349,
+  "unique_sellers": 2960,
+  "unique_categories": 72
+}

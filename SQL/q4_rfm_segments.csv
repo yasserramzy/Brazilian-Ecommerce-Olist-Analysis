@@ -1,0 +1,6 @@
+segment,customers,avg_recency_days,avg_frequency,avg_monetary,total_revenue
+At Risk,37340,397.0,1.03,165.33,6173487.03
+New Customers,30015,79.0,1.0,164.53,4938294.36
+Loyal Customers,17685,207.0,1.05,159.97,2829001.69
+Potential Loyalists,7325,205.0,1.0,151.63,1110663.12
+Champions,984,91.0,2.18,372.77,366805.17
