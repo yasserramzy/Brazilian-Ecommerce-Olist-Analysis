@@ -45,22 +45,39 @@ The project follows a full data analyst workflow:
 
 ├── data/                         # Original raw CSV files (9 tables)
 ├── notebooks/
+
 │   ├── 01_data_cleaning.ipynb    # Data cleaning & merging pipeline
+
 │   ├── 02_EDA.ipynb              # Exploratory data analysis & charts
+
 │   └── 03_SQL_analysis.ipynb     # MySQL database setup & queries
+
 ├── sql/
+
 │   ├── 01_revenue_by_state.sql
+
 │   ├── 02_top_sellers.sql
+
 │   ├── 03_late_delivery_impact.sql
+
 │   ├── 04_rfm_segmentation.sql
+
 │   ├── 05_peak_hours.sql
+
 │   ├── 06_payment_behavior.sql
+
 │   └── 07_category_performance.sql
+
 ├── outputs/
+
 │   ├── master_delivered.csv      # Clean master dataset (96,469 rows)
+
 │   ├── charts/                   # EDA visualizations
+
 │   └── Olist_Dashboard.pbix      # Power BI dashboard file
+
 └── README.md
+
 
 ---
 
